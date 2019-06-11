@@ -1,0 +1,17 @@
+{
+  "name": "dact-creator",
+  "version": "1.0.0",
+  "description": "Software for account creators to accept DACT tokens",
+  "main": "dact-creator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@yabapmatt",
+  "license": "MIT",
+  "dependencies": {
+    "dsteem": "^0.11.2",
+    "eosjs-ecc": "^4.0.4",
+    "express": "^4.17.1",
+    "steem": "^0.7.5"
+  }
+}

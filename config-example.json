@@ -1,0 +1,8 @@
+{
+	"rpc_nodes": ["https://api.steemit.com", "https://anyx.io"],
+	"logging_level": 4,
+	"dact_pub_key": "STM72hYpimFM1bagY5cCTeKvxScaFnPNpR1nfGDWzqoshpU8bYdxg",
+	"account": "account_name",
+	"active_key": "",
+	"api_port": 3000
+}
